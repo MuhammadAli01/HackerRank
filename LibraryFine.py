@@ -1,5 +1,5 @@
 """
-Solution to challenge: Library Fine,
+Solution to challenge: Library Fine
 Link: https://www.hackerrank.com/challenges/library-fine/problem
 Difficulty: Easy
 """
